@@ -16,6 +16,7 @@ Com base nos conhecimentos adquiridos na pesquisa da documentação, iniciou-se 
 LED, buzzers ou displays gráficos.
 A configuração física escolhida de pinos está demonstrada nas Figuras 1, 2, 3 e 4. Assim como a configuração final do projeto e o modelo de pinout do módulo na Figura 5.
 Importante lembrar que se deve conectar o VCC do módulo em voltagens menores que 5v para evitar que queime.
+![Alt text](Imagen_video/1.JPG)
 
 Figura 1 - Projeto completo já montado com todas pinagens.
 
