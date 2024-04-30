@@ -15,7 +15,7 @@ A configuração física escolhida de pinos está demonstrada nas Figuras 1, 2, 
 Importante lembrar que se deve conectar o VCC do módulo em voltagens menores que 5v para evitar que queime.
 
 ![Alt text](Imagen_video/1.JPG)
-Figura 1 - Projeto completo já montado com todas pinagens.
+Figura 1 - Projeto completo já montado com todas pinagens, botões 1,2 e 3 de cima para baixo.
 
 ![Alt text](Imagen_video/2.JPG)
 Figura 2 - Arduino receptor de sinal e suas pinagens. 
