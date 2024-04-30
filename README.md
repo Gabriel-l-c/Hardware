@@ -51,5 +51,7 @@ https://blog.eletrogate.com/guia-definitivo-do-modulo-wireless-nrf24l01-2/. Aces
 
 Arduino e cia. Comunicação wireless com Arduino e módulo NRF24L01. Arduino e cia. 19 de fevereiro de 2015. Disponível em: 
 https://www.arduinoecia.com.br/comunicacao-wireless-arduino-nrf24l01/. Acesso em: 22 de maio de 2024.
+
 Brendan. RF24. Github, nRF24. 22 de Jul de 2015. Disponivel: <https://github.com/tmrh20/RF24>. Acesso em: 22 de maio de 2024.
+
 TMRh20. Optimized high speed nRF24L01+ driver class documentation. 2020. Disponivel em: <https://nrf24.github.io/RF24/>. Acesso em 23 de maio de 2024.
